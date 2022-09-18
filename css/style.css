@@ -1,0 +1,108 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* ================================LARSSEIT============================ */
+@font-face {
+    font-family: 'Larsseit';
+    src: url("../fonts/Larsseit.woff2") format("woff2"), url("../fonts/Larsseit.woff") format("woff");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Larsseit';
+    src: url("../fonts/Larsseit-Medium.woff2") format("woff2"), url("../fonts/Larsseit-Medium.woff") format("woff");
+    font-display: swap;
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Larsseit';
+    src: url("../fonts/Larsseit-Bold.woff2") format("woff2"), url("../fonts/Larsseit-Bold.woff") format("woff");
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* ================================LATO============================ */
+
+@font-face {
+    font-family: 'Lato';
+    src: url("../fonts/latoregular.woff2") format("woff2"), url("../fonts/latoregular.woff") format("woff");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url("../fonts/latoregular.woff2") format("woff2"), url("../fonts/latoregular.woff") format("woff");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url("../fonts/latoblack.woff2") format("woff2"), url("../fonts/latoblack.woff") format("woff");
+    font-display: swap;
+    font-weight: 900;
+    font-style: normal;
+}
+
+/* ============================================================ */
+
+body {
+    font-family: 'Lato';
+    font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto';
+    font-weight: 400;
+}
+
+.top{
+    color: #ff0000;
+}
+
+.top h1 {
+    color: #0000ff;
+}
+
+.info {
+    color: #9400d3;
+}
+
+.info .biography {
+    color: #008000
+}
+
+#parents {
+    color: #6e5e00;
+}
+
+.info p {
+    color: #004e4e;
+}
+
+.professional {
+    color: #a52a2a;
+}
+.first.second-fight {
+    color: #3a3a3a;
+}
+
+.professional .third-fourth-fight {
+    color: rgb(255, 185, 56);
+}
+
+.reaction {
+    color: rgb(226, 26, 226);
+}
+
+.reaction p {
+    color: rgb(2, 111, 2);
+}
